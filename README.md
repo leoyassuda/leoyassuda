@@ -42,7 +42,6 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test post](https://dev.to/leoyassuda/test-post-23kc)
 - [Um README para o seu user do Github?](https://dev.to/leoyassuda/um-readme-para-o-seu-user-do-github-27pf)
 <!-- BLOG-POST-LIST:END -->
 
