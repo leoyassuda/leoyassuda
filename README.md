@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Gamer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
-- 🔭 I’m currently working on a project transformation and innovation for [Zup Innovation][company]!
+- 🔭 I’m currently working on a project transformation and innovation for [Wirecard Brasil][company]!
 - 🌱 I’m always a student because we need to continue learning new things 😅
 - 👯 Be collaborative! Help each other, and then we can create an amazing community.
 - 🎶 Hobbies: Love to dancing and play sports in my free times.
@@ -51,8 +51,8 @@
 
 <img align="left" alt="leoYassuda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leoyassuda&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[website]: https://leoyas.netlify.app/
+[website]: https://www.leoyas.com/
 [twitter]: https://twitter.com/leo_yassuda
 [linkedin]: https://www.linkedin.com/in/leonardo-yassuda/
 [twitch]: https://www.twitch.tv/leo_yassuda
-[company]: https://www.zup.com.br/en
+[company]: https://wirecard.com.br/
