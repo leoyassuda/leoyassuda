@@ -55,9 +55,7 @@
 [twitter]: https://twitter.com/leo_yassuda
 [linkedin]: https://www.linkedin.com/in/leonardo-yassuda/
 [twitch]: https://www.twitch.tv/leo_yassuda
-[company]: https://wirecard.com.br/
 
----
-
+<br />
 
 ![Snake animation](https://github.com/leoyassuda/leoyassuda/blob/output/github-contribution-grid-snake.svg)
