@@ -1,9 +1,9 @@
 name: generate animation
 
-on: [push]
-  #schedule:
-      # every 6 hours
-    #- cron: "0 */6 * * *"
+on: 
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
 
 jobs:
   generate:
