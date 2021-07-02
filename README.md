@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Gamer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
-- 🔭 I’m currently working on a project transformation and innovation for [Wirecard Brasil][company]!
+- 🔭 I’m currently working on a project transformation and innovation for [Moip by PagSeguro][company]!
 - 🌱 I’m always a student because we need to continue learning new things 😅
 - 👯 Be collaborative! Help each other, and then we can create an amazing community.
 - 🎶 Hobbies: Love to dancing and play sports in my free times.
@@ -55,6 +55,7 @@
 [twitter]: https://twitter.com/leo_yassuda
 [linkedin]: https://www.linkedin.com/in/leonardo-yassuda/
 [twitch]: https://www.twitch.tv/leo_yassuda
+[company]: https://moip.com.br/
 
 <br />
 
