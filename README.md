@@ -4,10 +4,10 @@
 
 ## I'm a Developer, Gamer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
-- 🔭 I’m currently working on a project transformation and innovation for [Will Bank][company]!
-- 🌱 I’m always a student because we need to continue learning new things 😅
+- 🔭 I’m currently working on a security and fraud protection project at [Will Bank][company]!
+- 🌱 I’m always a student because we need to continue learning new things. 🤓
 - 👯 Be collaborative! Help each other, and then we can create an amazing community.
-- 🎶 Hobbies: Love to dancing and play sports in my free times.
+- 🎶 Hobbies: Love dancing and play sports and games in my free times.
 
 ### Connect with me:
 
