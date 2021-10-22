@@ -2,7 +2,7 @@
 
 ---
 
-## I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
+### I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
 - 🔭 I’m currently working on a security and anti-fraud team at [Will Bank][company]!
 - 🌱 I’m always a student because we need to continue learning new things. 🤓
