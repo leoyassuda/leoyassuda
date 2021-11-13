@@ -54,7 +54,7 @@
 [website]: https://www.leoyas.com/
 [twitter]: https://twitter.com/leo_yassuda
 [linkedin]: https://www.linkedin.com/in/leonardo-yassuda/
-[twitch]: https://www.twitch.tv/leo_yassuda
+[twitch]: https://www.twitch.tv/leoyassuda
 [company]: https://www.willbank.com.br/
 
 <br />
