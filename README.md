@@ -23,7 +23,6 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Experimentando o jamstack da Vercel com um encurtador de URLs](https://dev.to/leoyassuda/experimentando-o-jamstack-da-vercel-com-um-encurtador-de-urls-2be6)
 - [Automação de feed do seu blog no perfil do github 🤖](https://dev.to/leoyassuda/automacao-de-feed-do-seu-blog-no-perfil-do-github-41g0)
 - [Um README para o seu user do Github?](https://dev.to/leoyassuda/um-readme-para-o-seu-user-do-github-27pf)
