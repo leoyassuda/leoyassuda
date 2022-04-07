@@ -1,8 +1,8 @@
 <img src="./img/banner.png" />
 
-# Hi there, I'm Leo Yassuda - Software engineer - [Portfolio][website]
+## Hi there, I'm Leo Yassuda - Software engineer - [Portfolio][website]
 
-## I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
+### I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
 - 🌱 I’m always a student because we need to continue learning new things. 🤓
 - 👯 Be collaborative! Help each other, and then we can create an amazing community.
