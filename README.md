@@ -1,8 +1,8 @@
-### Hi there, I'm Leo - Software engineer - [Portfolio][website]
+<img src="./img/banner.png" />
 
----
+# Hi there, I'm Leo Yassuda - Software engineer - [Portfolio][website]
 
-### I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
+## I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
 - 🌱 I’m always a student because we need to continue learning new things. 🤓
 - 👯 Be collaborative! Help each other, and then we can create an amazing community.
@@ -21,6 +21,7 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Experimentando o jamstack da Vercel com um encurtador de URLs](https://dev.to/leoyassuda/experimentando-o-jamstack-da-vercel-com-um-encurtador-de-urls-2be6)
 - [Automação de feed do seu blog no perfil do github 🤖](https://dev.to/leoyassuda/automacao-de-feed-do-seu-blog-no-perfil-do-github-41g0)
 - [Um README para o seu user do Github?](https://dev.to/leoyassuda/um-readme-para-o-seu-user-do-github-27pf)
