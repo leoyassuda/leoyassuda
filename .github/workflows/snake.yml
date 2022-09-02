@@ -1,9 +1,9 @@
-name: generate animation
+name: generate snake animation
 
 on: 
   schedule:
     # every 6 hours
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'
 
 jobs:
   generate:
