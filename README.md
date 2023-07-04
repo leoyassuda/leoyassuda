@@ -1,6 +1,6 @@
 <img src="./img/banner.png" />
 
-## Hi there, I'm Leo Yassuda - Software engineer @[Loft][company]
+## Hi there, I'm Leo Yassuda - Software engineer
 
 ### I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
@@ -36,7 +36,6 @@
 [twitter]: https://twitter.com/leo_yassuda
 [linkedin]: https://www.linkedin.com/in/leonardo-yassuda
 [twitch]: https://www.twitch.tv/leoyassuda
-[company]: https://www.loft.com.br
 [company-blog]: https://www.programadev.com.br
 
 <br />
