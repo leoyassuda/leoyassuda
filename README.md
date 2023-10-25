@@ -4,6 +4,7 @@
 
 ### I'm a Developer, Gamer, Dancer, Coffee and Photograph lover 💻 🎮 ☕ 📷
 
+- Working **@[Food To Save](https://www.foodtosave.com.br "The best in Brazil against food waste")**
 - 🌱 I’m always a student because we need to continue learning new things. 🤓
 - 🙌 Be collaborative! Help each other, and then we can create an amazing community.
 - 🎶 Hobbies: Love dancing, play sports and games in my free times.
@@ -37,6 +38,7 @@
 [linkedin]: https://www.linkedin.com/in/leonardo-yassuda
 [twitch]: https://www.twitch.tv/leoyassuda
 [company-blog]: https://www.programadev.com.br
+[company-work]: https://www.foodtosave.com.br
 
 <br />
 
