@@ -33,7 +33,7 @@
 
 <img align="left" alt="leoYassuda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=leoyassuda&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[website]: https://www.leoyas.com
+[website]: https://www.leoyassuda.com
 [twitter]: https://twitter.com/leo_yassuda
 [linkedin]: https://www.linkedin.com/in/leonardo-yassuda
 [twitch]: https://www.twitch.tv/leoyassuda
